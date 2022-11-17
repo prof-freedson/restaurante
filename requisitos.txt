@@ -1,0 +1,6 @@
+Páginas:
+- inicial
+- sobre
+- reservas
+- cardápio
+- avaliações
