@@ -20,5 +20,10 @@ Objetivos:
 - Modelar um aplicativo
 
 Atividades
+- Briefing
 - Elaboração dos requisitos
+- Wireframes
+- Mockups
+- Desenvolvimento dos códigos das páginas
+- Organização do relatório
 
