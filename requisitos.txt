@@ -18,3 +18,7 @@ Cliente:
 Objetivos:
 - Modelar uma página web
 - Modelar um aplicativo
+
+Atividades
+- Elaboração dos requisitos
+
