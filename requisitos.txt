@@ -28,4 +28,5 @@ Atividades
 - Organização do relatório
 - Entrega do relatório
 - Defesa do Projeto
+- Avaliação do Projeto
 
