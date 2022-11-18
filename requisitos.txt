@@ -29,4 +29,4 @@ Atividades
 - Entrega do relatório
 - Defesa do Projeto
 - Avaliação do Projeto
-
+- Nota
