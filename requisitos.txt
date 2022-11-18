@@ -11,3 +11,6 @@ Tecnologias:
 - JavaScript
 - React
 - Figma
+
+Cliente:
+- Restaurante Escola Senac MA
