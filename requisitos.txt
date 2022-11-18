@@ -26,4 +26,5 @@ Atividades
 - Mockups
 - Desenvolvimento dos códigos das páginas
 - Organização do relatório
+- Entrega do relatório
 
