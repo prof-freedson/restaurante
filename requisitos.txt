@@ -14,3 +14,7 @@ Tecnologias:
 
 Cliente:
 - Restaurante Escola Senac MA
+
+Objetivos:
+- Modelar uma página web
+- Modelar um aplicativo
