@@ -26,8 +26,6 @@ Atividades
 - Mockups
 - Desenvolvimento dos códigos das páginas
 - Organização do relatório
-<<<<<<< HEAD
 - Entrega do relatório
+- Defesa do Projeto
 
-=======
->>>>>>> 3bb57284892506d818c3829353e0d6ded6c47147
