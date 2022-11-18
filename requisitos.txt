@@ -4,3 +4,10 @@ Páginas:
 - reservas
 - cardápio
 - avaliações
+
+Tecnologias:
+- HTML
+- CSS
+- JavaScript
+- React
+- Figma
